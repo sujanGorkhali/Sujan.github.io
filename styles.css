@@ -57,6 +57,14 @@ td, th {
 header,footer{
 	grid-column: 1 / 4;
 }
-header, aside,footer{
+header, aside, footer{
 	background : maroon;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+  padding: 20px;
+  background-color: silver;
 }
